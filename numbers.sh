@@ -1,7 +1,7 @@
 #! /bin/bash
 # numbers.sh
 # Shree Murthy
-# monitor while loop: N=$ ( (N+1) ) check even/odd: $ ( (N%2) ) -eq 0
+
 
 echo "Please enter a positive integer: "
 read -r X
