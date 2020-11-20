@@ -1,9 +1,9 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
-5. Assignment: numbers 
+1. Name: Shree Murthy 
+2. Student ID: 2374658
+3. Email: shmurthy@chapman.edu
+4. Class: CPSC/CENG-298-03
+5. Assignment: numbers.sh
 
 ## Application Purpose
 A bash script named “numbers.sh” that will 
